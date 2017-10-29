@@ -1,6 +1,17 @@
 # python-programming-with-data-structures-and-algorithms
 This repository contains python programming with data structures and algorithms.
 
+## *Objectives*
+
+- To review the Python programming language.
+
+- To understand and implement the notion of an abstract data type.
+
+- To understand *Data-Structures* and *Algorithms*.
+
+- To review problems-solving of *Online-Judges*  with python.
+
+- To review object-oriented programming. 
 
 ## Table of Contents
  -----
