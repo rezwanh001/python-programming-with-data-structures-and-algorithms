@@ -32,6 +32,14 @@ This repository contains python programming with data structures and algorithms.
         - [A. Watermelon](http://codeforces.com/problemset/problem/4/A)
             - [Solution](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/A.%20Watermelon.py)
             
+    
+    
     - [AtCoder](http://atcoder.jp/)
         - [B - Two Switches](http://abc070.contest.atcoder.jp/tasks/abc070_b)
             - [Solution](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/B%20-%20Two%20Switches.py)
+            
+     
+
+    - [HackerRank](https://www.hackerrank.com/dashboard)
+        - [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world)
+           - [Solution]()
