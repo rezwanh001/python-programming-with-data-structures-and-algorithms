@@ -27,5 +27,5 @@ This repository contains python programming with data structures and algorithms.
    - [Codeforces](http://codeforces.com/)
         - [A. Theatre Square](http://codeforces.com/problemset/problem/1/A)
             - [Solution](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/A.%20Theatre%20Square.py)
-        - [A. Watermelon](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/A.%20Watermelon.py)
+        - [A. Watermelon](http://codeforces.com/problemset/problem/4/A)
             - [Solution](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/A.%20Watermelon.py)
