@@ -36,6 +36,11 @@ This repository contains python programming with data structures and algorithms.
    
    - [CodeChef](https://www.codechef.com/)
    
+   
+   - [Timus]()
+        - [1068. Sum](https://timus.spatarel.ro/problem.aspx%3Fspace=1&num=1068)
+            - [Solution](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/1068.%20Sum.py)
+   
 
    - [Codeforces](http://codeforces.com/)
         - [A. Theatre Square](http://codeforces.com/problemset/problem/1/A)
