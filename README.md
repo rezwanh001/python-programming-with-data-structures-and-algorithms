@@ -42,4 +42,4 @@ This repository contains python programming with data structures and algorithms.
 
     - [HackerRank](https://www.hackerrank.com/dashboard)
         - [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world)
-           - [Solution]()
+           - [Solution](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/Say%20%22Hello%2C%20World!%22%20With%20Python.py)
