@@ -34,4 +34,4 @@ This repository contains python programming with data structures and algorithms.
             
     - [AtCoder](http://atcoder.jp/)
         - [B - Two Switches](http://abc070.contest.atcoder.jp/tasks/abc070_b)
-            - [Solution]()
+            - [Solution](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/B%20-%20Two%20Switches.py)
