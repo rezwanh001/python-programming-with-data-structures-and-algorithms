@@ -9,3 +9,5 @@ print() # pyhton simple new line.
 print("Hello wold!", "Hello Dunia!", "Hello Universe!") # Three sentence with one-space (default).
 
 print("\n") # this means 2 new-line
+
+print('Hello', 'World!', sep=',') # Separate two word by ,
