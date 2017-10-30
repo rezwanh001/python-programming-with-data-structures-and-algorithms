@@ -99,6 +99,19 @@ Yeah! You are Bangladeshi
 '''
 
 
+
+########## Leaf Year
+year = int(input())
+
+if( year%400 == 0 or (year%100 != 0 and year%4 == 0) ):
+    print('%d is leaf year.' % year)
+else:
+    print('%d is not leaf year.' % year)
+
+
+
+
+
 '''
 ** You are now able to solve following online-judge problems.
 ------------------------------------------------------------
