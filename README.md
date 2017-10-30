@@ -63,3 +63,5 @@ This repository contains python programming with data structures and algorithms.
     
     
     - [URI](https://www.urionlinejudge.com.br/judge/en) 
+       - (1) [1103 - Alarm Clock](https://www.urionlinejudge.com.br/judge/en/problems/view/1103)
+           - [Solution](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/URI/1103%20-%20Alarm%20Clock.py)
