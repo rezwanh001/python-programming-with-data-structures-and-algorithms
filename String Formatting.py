@@ -37,11 +37,11 @@ Rezwan is 20 years old!
 
 ##################################
 a = float(input())
-print("Price of this t-shirt is %.10f" % a)
+print("Price of this t-shirt is %.9f" % a)
 '''
 Input:
 855.75
 
 Output:
-Price of this t-shirt is 855.7500000000
+Price of this t-shirt is 855.750000000
 '''

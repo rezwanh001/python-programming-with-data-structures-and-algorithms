@@ -108,3 +108,5 @@ Enter a Float number: 233.5
 Entered number is 233.5
 '''
 
+a = int(input())
+print(a**a) # a^a

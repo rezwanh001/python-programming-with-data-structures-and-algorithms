@@ -103,5 +103,7 @@ Yeah! You are Bangladeshi
 ** You are now able to solve following online-judge problems.
 ------------------------------------------------------------
 1. http://codeforces.com/problemset/problem/4/A 
-    - Solution: https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/A.%20Watermelon.py
+    
+2. http://abc070.contest.atcoder.jp/tasks/abc070_b
+
 '''
