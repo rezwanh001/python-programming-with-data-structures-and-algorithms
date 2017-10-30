@@ -24,3 +24,6 @@ This repository contains python programming with data structures and algorithms.
         - [String Formatting](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/String%20Formatting.py)
         
 - Online-Judges 
+   - [Codeforces](http://codeforces.com/)
+        - [A. Theatre Square](http://codeforces.com/problemset/problem/1/A)
+            - [Solution]()
