@@ -24,8 +24,19 @@ This repository contains python programming with data structures and algorithms.
         - [String Formatting](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/String%20Formatting.py)
     - [Conditional Statements](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/Conditional%20Statements.py)   
      
-        
+    
+    
 - Online-Judges 
+   
+   - [UVa](https://uva.onlinejudge.org/)
+   
+   
+   - [Spoj](http://www.spoj.com/)
+   
+   
+   - [CodeChef](https://www.codechef.com/)
+   
+
    - [Codeforces](http://codeforces.com/)
         - [A. Theatre Square](http://codeforces.com/problemset/problem/1/A)
             - [Solution](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/A.%20Theatre%20Square.py)
@@ -43,3 +54,5 @@ This repository contains python programming with data structures and algorithms.
     - [HackerRank](https://www.hackerrank.com/dashboard)
         - [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world)
            - [Solution](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/Say%20%22Hello%2C%20World!%22%20With%20Python.py)
+
+   
