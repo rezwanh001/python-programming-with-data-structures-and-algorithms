@@ -38,7 +38,7 @@ This repository contains python programming with data structures and algorithms.
    
    
    - [Timus]()
-        - [1068. Sum](https://timus.spatarel.ro/problem.aspx%3Fspace=1&num=1068)
+        - (1) [1068. Sum](https://timus.spatarel.ro/problem.aspx%3Fspace=1&num=1068)
             - [Solution](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/Timus/1068.%20Sum.py)
    
 
