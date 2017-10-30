@@ -65,5 +65,5 @@ print((5 >= 1) and (5 <= 10)) # True
 ** You are now able to solve following online-judge problems.
 ------------------------------------------------------------
 1. http://codeforces.com/problemset/problem/1/A
-2. http://codeforces.com/problemset/problem/4/A 
+    - Solution : https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/A.%20Theatre%20Square.py
 '''

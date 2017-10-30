@@ -10,6 +10,7 @@ Hello World!
 '''
 
 
+
 ######### take only one int number
 a = int(input())
 print(a)
@@ -20,6 +21,7 @@ Input:
 Output:
 5
 '''
+
 
 
 ######### take only one float number
@@ -105,3 +107,4 @@ print("Entered number is %f" % a)
 Enter a Float number: 233.5
 Entered number is 233.5
 '''
+
