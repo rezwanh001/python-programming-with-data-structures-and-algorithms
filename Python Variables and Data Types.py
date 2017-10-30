@@ -61,3 +61,9 @@ print(5==10) # False
 print(10 > 5) # True
 print((5 >= 1) and (5 <= 10)) # True
 
+'''
+** You are now able to solve following online-judge problems.
+------------------------------------------------------------
+1. http://codeforces.com/problemset/problem/1/A
+2. http://codeforces.com/problemset/problem/4/A 
+'''
