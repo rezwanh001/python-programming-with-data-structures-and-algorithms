@@ -43,21 +43,21 @@ This repository contains python programming with data structures and algorithms.
    
 
    - [Codeforces](http://codeforces.com/)
-        - [A. Theatre Square](http://codeforces.com/problemset/problem/1/A)
+        - (1) [A. Theatre Square](http://codeforces.com/problemset/problem/1/A)
             - [Solution](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/Codeforces/A.%20Theatre%20Square.py)
-        - [A. Watermelon](http://codeforces.com/problemset/problem/4/A)
+        - (2) [A. Watermelon](http://codeforces.com/problemset/problem/4/A)
             - [Solution](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/Codeforces/A.%20Watermelon.py)
             
     
     
     - [AtCoder](http://atcoder.jp/)
-        - [B - Two Switches](http://abc070.contest.atcoder.jp/tasks/abc070_b)
+        - (1) [B - Two Switches](http://abc070.contest.atcoder.jp/tasks/abc070_b)
             - [Solution](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/AtCoder/B%20-%20Two%20Switches.py)
             
      
 
     - [HackerRank](https://www.hackerrank.com/dashboard)
-        - [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world)
+        - (1) [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world)
            - [Solution](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/HackerRank/Say%20%22Hello%2C%20World!%22%20With%20Python.py)
 
     
