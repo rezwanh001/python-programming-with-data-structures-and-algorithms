@@ -44,7 +44,6 @@ This repository contains python programming with data structures and algorithms.
    - [Spoj](http://www.spoj.com/)
         - (1) [TEST - Life, the Universe, and Everything](http://www.spoj.com/problems/TEST/)
              - [Solution](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/Spoj/TEST%20-%20Life%2C%20the%20Universe%2C%20and%20Everythin.py)
-             
         - (2) [ADDREV - Adding Reversed Numbers](http://www.spoj.com/problems/ADDREV/)
             - [Solution](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/Spoj/ADDREV%20-%20Adding%20Reversed%20Numbers.py)
    
@@ -67,10 +66,8 @@ This repository contains python programming with data structures and algorithms.
    - [Timus]()
         - (1) [1068. Sum](https://timus.spatarel.ro/problem.aspx%3Fspace=1&num=1068)
             - [Solution](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/Timus/1068.%20Sum.py)
-            
         - (2) [1083. Factorials!!!](https://timus.spatarel.ro/problem.aspx%3Fspace=1&num=1083)
             - [Solution](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/Timus/1083.%20Factorials!!!.py)
-            
         - (3) [1209. 1, 10, 100, 1000...](https://timus.spatarel.ro/problem.aspx%3Fspace=1&num=1209)
             - [Solution](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/Timus/1209.%201%2C%2010%2C%20100%2C%201000....py)
         - (4) [1000. A+B Problem](http://acm.timus.ru/problem.aspx?space=1&num=1000)
@@ -106,8 +103,7 @@ This repository contains python programming with data structures and algorithms.
 
     - [HackerRank](https://www.hackerrank.com/dashboard)
         - (1) [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world)
-           - [Solution](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/HackerRank/Say%20%22Hello%2C%20World!%22%20With%20Python.py)
-           
+           - [Solution](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/HackerRank/Say%20%22Hello%2C%20World!%22%20With%20Python.py)  
         - (2) [Loops](https://www.hackerrank.com/challenges/python-loops/problem)
            - [Solution](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/HackerRank/Loops.py)
         - (3) [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)
@@ -123,13 +119,10 @@ This repository contains python programming with data structures and algorithms.
     - [URI](https://www.urionlinejudge.com.br/judge/en) 
        - (1) [1103 - Alarm Clock](https://www.urionlinejudge.com.br/judge/en/problems/view/1103)
            - [Solution](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/URI/1103%20-%20Alarm%20Clock.py)
-           
        - (2) [1059 - Even Numbers](https://www.urionlinejudge.com.br/judge/en/problems/view/1059)
-           - [Solution](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/URI/1059%20Even%20Numbers.py)
-           
+           - [Solution](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/URI/1059%20Even%20Numbers.py)        
        - (3) [1161 - Factorial Sum](https://www.urionlinejudge.com.br/judge/en/problems/view/1161)
-           - [Solution](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/URI/1161%20Factorial%20Sum.py)
-           
+           - [Solution](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/URI/1161%20Factorial%20Sum.py)     
         - (4) [1026 To Carry or not to Carry](https://www.urionlinejudge.com.br/judge/en/problems/view/1026)
             - [Solution](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/URI/1026%20-%20To%20Carry%20or%20not%20to%20Carry.py)
             
