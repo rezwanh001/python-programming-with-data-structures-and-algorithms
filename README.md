@@ -25,7 +25,8 @@ This repository contains python programming with data structures and algorithms.
     - [Conditional Statements](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/Conditional%20Statements.py) 
     - [Loop](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/Loop.py)
     - [List(Array) and String](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/List(Array)%20and%20String.py)
-    
+    - [Tuples and Dictionaries](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/Tuples%20and%20Dictionaries.py)
+        
      
     
     
@@ -110,6 +111,10 @@ This repository contains python programming with data structures and algorithms.
            - [Solution](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/HackerRank/String%20Split%20and%20Join.py)
         - (4) [Find a string](https://www.hackerrank.com/challenges/find-a-string/problem)
            - [Solution](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/HackerRank/Find%20a%20string.py)
+        - (5) [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)
+           - [Solution](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/HackerRank/Tuples.py)
+        - (6) [DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem)
+           - [Solution](https://github.com/rezwanulhaquerezwan/python-programming-with-data-structures-and-algorithms/blob/master/HackerRank/DefaultDict%20Tutorial.py)
 
     
     
